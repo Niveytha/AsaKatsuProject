@@ -6,9 +6,9 @@ GOAL: Basic Hiragana
 [X] Monday    | 721 XP    |
 [X] Tuesday   | 920 XP    |
 [X] Wednesday | 1070 XP   |
-[ ] Thursday  |           |
-[ ] Friday    |           |
-[ ] Saturday  |           |
+[X] Thursday  | 1570 XP   |
+[X] Friday    | 2107 XP   |
+[X] Saturday  | 2276 XP   |
 [ ] Sunday    |           |
 
 
